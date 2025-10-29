@@ -19,6 +19,7 @@ It would be a diverse environment with different Windows OS's, this would be phy
 
 - Ubiquiti Edgerouter X (ER-X)
   ![1000024686 - Copy](https://github.com/user-attachments/assets/037a5d38-bdae-4394-8494-e3ce01844f18)
+  ![Ubq er-x - Copy](https://github.com/user-attachments/assets/b49425fa-fb94-43f6-85cc-4e031c7b4ded)
 
 - Ubiquiti AP AC Lite
   ![1000024688 - Copy](https://github.com/user-attachments/assets/4c54423e-fc74-4353-95c7-c8a521e48966)
