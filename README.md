@@ -15,9 +15,28 @@ It would be a diverse environment with different Windows OS's, this would be phy
 
 ## Equipment Used 
 - ALFA Network Inc. AWUS036ACH
+  ![1000024689 - Copy](https://github.com/user-attachments/assets/31141798-8a2a-40be-bca3-26fb3b5babfc)
+
 - Ubiquiti Edgerouter X (ER-X)
+  ![1000024686 - Copy](https://github.com/user-attachments/assets/037a5d38-bdae-4394-8494-e3ce01844f18)
+
 - Ubiquiti AP AC Lite
+  ![1000024688 - Copy](https://github.com/user-attachments/assets/4c54423e-fc74-4353-95c7-c8a521e48966)
+
 - Lenovo B575 (manually removed wifi card) Running Windows 10
 - Virtual Copy of Windows 7
 
 ## Installation/Configuration
+
+I decided to purchase a few quality pieces of hardware with going with Ubiquiti Items and the Alfa Network Adapter. 
+Before setting up the home lab I was able to configure the items with an actual live network connection to get any firmware updates. 
+
+The great thing about the Edgerouter X is that it can be configured for offline use with the AP AC Lite.  This was a great feature since I didn't have to worry about any external factors once the firmware was updated. 
+
+The Alfa Networks Adapter was a little intimidating at first. I didn't realize at first that it's capable of long range use. I found this out after configuring for the B575 via the Alfa app and saw more networks that I anticiapated seeing. 
+
+## Usage
+
+Once the firmware updates were complete I was able to setup the Edgerouter X for offlince use.  I was able to complete this by using their setup instructions and tweking them a bit by setting the network settings myself.  The AC AP Lite also worked by allowing a few of the machines to connect via WiFi.  
+
+
