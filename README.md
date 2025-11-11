@@ -17,7 +17,8 @@ It would be a diverse environment with different Windows OS's, this would be phy
 
 ## Equipment Used 
 - ALFA Network Inc. AWUS036ACH
-  ![1000024689 - Copy](https://github.com/user-attachments/assets/31141798-8a2a-40be-bca3-26fb3b5babfc)
+ <img width="178" height="559" alt="image" src="https://github.com/user-attachments/assets/6cc31a01-704a-441d-b420-938345414597" />
+
 
 - Ubiquiti Edgerouter X (ER-X)
   ![1000024686 - Copy](https://github.com/user-attachments/assets/037a5d38-bdae-4394-8494-e3ce01844f18)
